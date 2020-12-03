@@ -1,10 +1,12 @@
-# The relationship between ENSO and temperature and preciptiation patterns 
+## Exploring Global Relationships Between Surface Temperature and North Atlantic Variability 
  
-## Kathy Pegion
+## Douglas Nedza
 
 ## Introduction
 
-My CLIM 680 project investigates the relationship between the El Nino Southern Oscillation and temperature and precipitation.  I choose this topic because it has been widely explored and written about in the scientific literature, but I wanted to see these relationships for myself.  I also explored the relationship between temperature and precipitation with another climate index, the NAO, for comparison.
+For CLIM 680, I will be investigating the relationship between North Atlantic Temperature Variability measured between 80W-0W and 0N-60N, and other surface variables, such as sea surface temperature (SST), surface temperature (TS), and precipitation (PRECT) across the globe.
+
+North Atlantic Variability is well studied, with demonstrated importance for predictability and regional climate.  Changes in surface temperature in the North Atlantic region may also be useful to monitor changes in the Atlantic Meridional Overturning Circulation, which bears great impact on Northern Hemisphere weather, and may be sensitive to anthropogenic forcing.
 
 ## Data
 
@@ -23,13 +25,6 @@ __NAO Index__
 The [NAO Index](https://www.psl.noaa.gov/data/correlation/nao.data) is the monthly CPC index, provided by NOAA/ESRL/PSL. It is located on the COLA servers in `/shared/ccsm4/kpegion/obs2/CLIM_INDICES/nao.data`. 
 
 ## Results and Codes
-
-### Functions
-I created a set of functions in `clim_utils.py` for doing common tasks used throughout my analysis, including:
-* Labelling plots
-* calculating climatology and anomalies
-* etc.
-
 
 ### Conda Environment
 
