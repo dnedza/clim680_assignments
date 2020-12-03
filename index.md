@@ -10,7 +10,13 @@ North Atlantic Variability is well studied, with demonstrated importance for pre
 
 ## Data
 
-The datasets used in my project are:
+The data used in the following analyses are taken from the CMIP5 archive and currently include the NASA GISS E2 H model and the NOAA GFDL model (depending on script, as changes have been made in the dataset used in different scripts (to be changed)).
+
+The data used is taken from pre-industrial runs, using constant external forcing replicating the year 1850.  The use of pre-indusitral model runs prevents results from demonstrating the dominance of the anthropogenic/volanic trends, as the desired relationships characterize the internal variability of the climate system.
+
+
+The following links are currently left as formatting reference and do not represent the data used in analysis (to be updated).
+
 
 __NOAA/OISST__
 The [NOAA/OISST](https://kpegion.github.io/COLA-DATASETS-CATALOG/sst.mnmean.nc) dataset is monthly, global sea surface temperature data from Dec, 1981 to Apr, 2020. It has horizontal resoluiton of 1deg longitude by 1deg latitude.
@@ -78,4 +84,4 @@ Link to notebook and describe results
 
 ## Summary
 
-Provide short summary of what you learned from your analysis of your data (both scientific and technical), what you plan to do next, and any challenges or issues you encountered/overcame. 
+ 
