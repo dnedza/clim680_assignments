@@ -16,28 +16,17 @@ The data used is taken from pre-industrial runs, using constant external forcing
 
 __NOAA GFDL CM3__
 [NOAA GFDL-CM3](https://www.gfdl.noaa.gov)
-[Visualize Mean and Climatological Characteristics of Sea Surface Temperature inGFDL-CM3]()
-[Visualize Spatial Patterns of Surface Temperature Variability in GFDL-CM3]()
+
+[Visualize Mean and Climatological Characteristics of Sea Surface Temperature inGFDL-CM3](https://github.com/dnedza/clim680_assignments/blob/master/clim680_project_anoms_dnedza_NOAA.ipynb)
+
+[Visualize Spatial Patterns of Surface Temperature Variability in GFDL-CM3](https://github.com/dnedza/clim680_assignments/blob/master/clim680_project_EOF_dnedza_NOAA.ipynb)
 
 __NASA GISS-E2-H__
 [NASA GISS-E2-H](https://www.giss.nasa.gov)
-[Visualize Mean and Climatological Characteristics of Sea Surface Temperature in GISS-E2-H]()
-[Visualize Spatial Patterns of Surface Temperature Variability in GISS-E2-H]()
 
-The following links are currently left as formatting reference and do not represent the data used in analysis (to be updated).
+[Visualize Mean and Climatological Characteristics of Sea Surface Temperature in GISS-E2-H](https://github.com/dnedza/clim680_assignments/blob/master/clim680_project_anoms_dnedza_NASA.ipynb)
 
-
-__NOAA/OISST__
-The [NOAA/OISST](https://kpegion.github.io/COLA-DATASETS-CATALOG/sst.mnmean.nc) dataset is monthly, global sea surface temperature data from Dec, 1981 to Apr, 2020. It has horizontal resoluiton of 1deg longitude by 1deg latitude.
- 
-__GPCP Precipitation__
-The [GPCP precipitation](https://kpegion.github.io/COLA-DATASETS-CATALOG/gpcp_precip.mon.mean.nc) is monthly global precipitation from Jan 1979 to Apr 2020. It is on a 2.5 deg longitude by 2.5 deg latitude gride.
-
-__GHCN_CAMS__
-The [GHCN_CAMS](https://kpegion.github.io/COLA-DATASETS-CATALOG/ghcn_cams) is a global, land-only, monthly temperature datasets from Jan 1948 to Mar 2020.  It is on a 0.5 deg longitude by 0.5 deg latitude grid.
-
-__NAO Index__
-The [NAO Index](https://www.psl.noaa.gov/data/correlation/nao.data) is the monthly CPC index, provided by NOAA/ESRL/PSL. It is located on the COLA servers in `/shared/ccsm4/kpegion/obs2/CLIM_INDICES/nao.data`. 
+[Visualize Spatial Patterns of Surface Temperature Variability in GISS-E2-H](https://github.com/dnedza/clim680_assignments/blob/master/clim680_project_EOF_dnedza_NASA.ipynb)
 
 ## Results and Codes
 
