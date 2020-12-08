@@ -17,64 +17,38 @@ The data used is taken from pre-industrial runs, using constant external forcing
 __NOAA GFDL CM3__
 [NOAA GFDL-CM3](https://www.gfdl.noaa.gov)
 
+__NASA GISS E2-H__
+[NASA GISS-E2-H](https://www.giss.nasa.gov)
+
+##Analyses of Data
+
+###General Characteristics of Data
+
 [Visualize Mean and Climatological Characteristics of Sea Surface Temperature inGFDL-CM3](https://github.com/dnedza/clim680_assignments/blob/master/clim680_project_anoms_dnedza_NOAA.ipynb)
 
 [Visualize Spatial Patterns of Surface Temperature Variability in GFDL-CM3](https://github.com/dnedza/clim680_assignments/blob/master/clim680_project_EOF_dnedza_NOAA.ipynb)
-
-__NASA GISS-E2-H__
-[NASA GISS-E2-H](https://www.giss.nasa.gov)
 
 [Visualize Mean and Climatological Characteristics of Sea Surface Temperature in GISS-E2-H](https://github.com/dnedza/clim680_assignments/blob/master/clim680_project_anoms_dnedza_NASA.ipynb)
 
 [Visualize Spatial Patterns of Surface Temperature Variability in GISS-E2-H](https://github.com/dnedza/clim680_assignments/blob/master/clim680_project_EOF_dnedza_NASA.ipynb)
 
-## Results and Codes
+###Teleconnections
+
+####Atlantic Basin Average
+
+[Visualize Spatial Patterns of Teleconnections Associated with Atlantic Variability in GFDL-CM3]()
+
+[Visualize Spatial Patterns of Teleconnections Associated with Atlantic Variability in GISS-E2-H]()
+
+
+####ENSO
+
+[Visualize Spatial Patterns of Teleconnections Associated with ENSO in GFDL-CM3](https://github.com/dnedza/clim680_assignments/blob/master/clim680_project_nino_dnedza_NOAA.ipynb)
+
+[Visualize Spatial Patterns of Teleconnections Associated with ENSO in GISS-E2-H](https://github.com/dnedza/clim680_assignments/blob/master/clim680_project_nino_dnedza_NASA.ipynb)
 
 ### Conda Environment
-
-The environment.yml file is provided to define the environment needed to run all codes.
-
-### Analyses and Notebooks
- 
-#### Annual Mean  
-
-Link to notebook and describe results
-
-#### Climatology
-
-Link to notebook and describe results
-
-#### Anomalies
-
-Link to notebook and describe results
-
-#### Calculate the Nino3.4 index
-
-Link to notebook and describe results
-
-#### Calculate Composites
-
-Link to notebook and describe results
-
-####  Calculate the Mean Difference between Composites with Significance
-
-Link to notebook and describe results
-
-#### Calculate and compare Composites with NAO index  
-
-Link to notebook and describe results
-
-#### Correlation of ENSO Composites for two time periods
-
-Link to notebook and describe results
-
-#### Regression of Nino3.4 with Temperature and Precipitation
-
-Link to notebook and describe results
-
-#### EOFs of monsthly SSTs
-
-Link to notebook and describe results
+A environment.yml file is available to define a consistent environment for the execution of the above codes.
 
 ## Summary
 
