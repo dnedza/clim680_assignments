@@ -10,8 +10,7 @@ North Atlantic Variability is well studied, with demonstrated importance for pre
 
 ## Data
 
-The data used in the following analyses are taken from the CMIP5 archive and currently include the NASA GISS E2 H model and the NOAA GFDL model (depending on script, as changes have been made in the dataset used in different scripts (to be changed)).
-
+The data used in the following analyses are taken from the CMIP5 archive and currently include the NASA GISS E2 H model and the NOAA GFDL CM3 model.
 The data used is taken from pre-industrial runs, using constant external forcing replicating the year 1850.  The use of pre-indusitral model runs prevents results from demonstrating the dominance of the anthropogenic/volanic trends, as the desired relationships characterize the internal variability of the climate system.
 
 __NOAA GFDL CM3__
@@ -24,13 +23,13 @@ __NASA GISS E2-H__
 
 ### General Characteristics of Data
 
-To gain an appreciation of the general characteristics of the model output, who notebooks have been prepared for each model.  The first notebook assesses aspects of the mean and climatology for the sea surface temperature.  The second calculates principal components of the surface (2m) temperature.  These principal components characterize spatial and temporal patterns of variability that are orthogonal.
+To gain an appreciation of the general characteristics of the model output, two notebooks have been prepared for each model.  The first notebook assesses aspects of the mean and climatology for the sea surface temperature.  The second calculates principal components of the surface (2m) temperature.  These principal components characterize spatial and temporal patterns of variability that are orthogonal.
 
 There does appear to be some differences in the SST climatologies between the models, with GISS-E2-H having warmer tropical regions, and GFDL-CM3 a warmer region near Scandanavia.  GFDL is also missing data in some regions of the Artic.
 
 A difference between surface temerature and sea surface temperature is calculated.  Consistent between models, the SST tends to be slightly higher than the overlying atmospheric temperature.  This is exaggerated in high latitudes, where ice is formed and prevents the water from continuing to cool.
 
-Evaluating the variability of surface temperature in each model reveals regions of large variability along the coast of Antarctica and north of Scandanavia.  The variability in these regions is more pronounced in GFDL-CM3, particularly over the Wendell Sea.  In GFDL-CM3 this variability near Antarctica dominates the first two princiapl components.
+Evaluating the variability of surface temperature in each model reveals regions of large variability along the coast of Antarctica and north of Scandanavia.  The variability in these regions is more pronounced in GFDL-CM3, particularly over the Wendell Sea.  In GFDL-CM3 this variability near Antarctica dominates the first two principal components.
 
 When restricting the domain to the North Atlantic, most of the variability is concentrated near the coast north of the Gulf Stream departure, with associted changes in temperature near the coast of Europe and Africa.  This is likely related to changes in subpolar SST and subsequent atmospheric changes.
 
