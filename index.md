@@ -14,6 +14,15 @@ The data used in the following analyses are taken from the CMIP5 archive and cur
 
 The data used is taken from pre-industrial runs, using constant external forcing replicating the year 1850.  The use of pre-indusitral model runs prevents results from demonstrating the dominance of the anthropogenic/volanic trends, as the desired relationships characterize the internal variability of the climate system.
 
+__NOAA GFDL CM3__
+[NOAA GFDL-CM3](https://www.gfdl.noaa.gov)
+[Visualize Mean and Climatological Characteristics of Sea Surface Temperature inGFDL-CM3]()
+[Visualize Spatial Patterns of Surface Temperature Variability in GFDL-CM3]()
+
+__NASA GISS-E2-H__
+[NASA GISS-E2-H](https://www.giss.nasa.gov)
+[Visualize Mean and Climatological Characteristics of Sea Surface Temperature in GISS-E2-H]()
+[Visualize Spatial Patterns of Surface Temperature Variability in GISS-E2-H]()
 
 The following links are currently left as formatting reference and do not represent the data used in analysis (to be updated).
 
@@ -35,10 +44,6 @@ The [NAO Index](https://www.psl.noaa.gov/data/correlation/nao.data) is the month
 ### Conda Environment
 
 The environment.yml file is provided to define the environment needed to run all codes.
-
-### Figures
-
-The figures from my notebooks are saved in the `figs` subdirectory and shown in my notebooks.
 
 ### Analyses and Notebooks
  
