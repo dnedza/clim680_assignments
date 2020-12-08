@@ -49,6 +49,10 @@ Teleconnections are visualized by calculating composites, which can capture non-
 
 #### Atlantic Basin Average
 
+Teleconnections related to the basin average North Atlantic temperature tend to be somewhat localized. SST tends to be constrained to the North Atlantic basin, while surface temperature impacts are generally restricted to the Northern Hemisphere subtropics.  While there appears to be some signal in precipitation along the equator, these changes are not found to be significant.  For all three variables the teleconnections tend to be more robust in GFDL-CM3.
+
+Within the North Atlantic basin itself, variability tends to occur in the horseshoe pattern often characterizes AMV.  Correlation and regression analysis evaluates the robustness of this and finds strong relationships along this horseshoe pattern.  No signficance is found in the western boundary region, except for a narrow path in GFDL-CM3.  An interesting region of significant negative regression coefficients in found near the subtropical-subpolar gyre boundary, surrounded by positive coefficients, in GFDL-CM3.
+
 [Visualize Spatial Patterns of Teleconnections Associated with Atlantic Variability in GFDL-CM3](https://github.com/dnedza/clim680_assignments/blob/master/clim680_project_amv_dnedza_NOAA.ipynb)
 
 [Visualize Spatial Patterns of Teleconnections Associated with Atlantic Variability in GISS-E2-H](https://github.com/dnedza/clim680_assignments/blob/master/clim680_project_amv_dnedza_NASA.ipynb)
@@ -71,4 +75,6 @@ A environment.yml file is available to define a consistent environment for the e
 
 ## Summary
 
- 
+Surface variables are analyzed for the NASA GISS-E2-H and NOAA GFDL-CM3 models found in the CMIP5 archive.  The model runs were taken from preindustrial control runs that lack a changes external forcing.  Data is assessed for climatology, variability, and teleconnections with standard indices such as Nino3.4 and an index calculated over the North Atlantic basin.
+
+While the models are generally consistent, there are interesting differences in the behavior the models, in particular, differences in regression maps relating North Atlantic surface temperuature to the basin average in the Gulf Stream departure region may hint at a difference in how the subtropical gyre and meridional overturning circulation interact.   
